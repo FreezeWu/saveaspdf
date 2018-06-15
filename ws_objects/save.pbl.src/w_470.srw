@@ -67,7 +67,7 @@ fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
-string text = "222"
+string text = "hub"
 end type
 
 type cb_1 from commandbutton within w_470
@@ -82,6 +82,6 @@ fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
-string text = "aab"
+string text = "git"
 end type
 

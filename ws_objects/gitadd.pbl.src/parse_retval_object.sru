@@ -2030,8 +2030,7 @@ TriggerEvent( this, "destructor" )
 call super::destroy
 end on
 
-event constructor;return 22
-//mod
+event constructor;return 11
 
 end event
 

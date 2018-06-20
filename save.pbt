@@ -3,5 +3,5 @@ Save Format v3.0(19990112)
 @end;
 appname "save";
 applib "save.pbl";
-LibList "save.pbl;qa_frame.pbl;appeon_workarounds.pbl";
+LibList "save.pbl;qa_frame.pbl;appeon_workarounds.pbl;gitadd.pbl";
 type "pb";

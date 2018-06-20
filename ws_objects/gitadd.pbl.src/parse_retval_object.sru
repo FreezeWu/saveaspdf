@@ -2030,11 +2030,7 @@ TriggerEvent( this, "destructor" )
 call super::destroy
 end on
 
-//<<<<<<< HEAD
 event constructor;return 33
-//=======
-event constructor;return 55
-//>>>>>>> master
 
 
 end event

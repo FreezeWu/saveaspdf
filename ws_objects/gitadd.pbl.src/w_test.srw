@@ -48,6 +48,7 @@ end type
 
 event clicked;return 1	//modify
 
-this.event constructor( )
+this.classname( )
+
 end event
 

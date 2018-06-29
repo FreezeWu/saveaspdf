@@ -43,7 +43,7 @@ fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
-string text = "test1"
+string text = "test4"
 end type
 
 event clicked;return 1	//modify

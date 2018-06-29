@@ -49,7 +49,6 @@ end type
 event clicked;return 1	//modify
 
 this.classname( )
-//aaa
 
 end event
 

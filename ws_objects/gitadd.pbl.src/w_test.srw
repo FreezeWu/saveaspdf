@@ -48,6 +48,5 @@ end type
 
 event clicked;//aaa
 //test
-//test2
 end event
 

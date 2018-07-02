@@ -46,10 +46,6 @@ string facename = "Tahoma"
 string text = "test4"
 end type
 
-//<<<<<<< HEAD
-event clicked;return 2
-//=======
-event clicked;return 1
-//>>>>>>> master
+event clicked;return 79
 end event
 

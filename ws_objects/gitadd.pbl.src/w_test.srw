@@ -46,6 +46,7 @@ string facename = "Tahoma"
 string text = "test4"
 end type
 
-event clicked;return 92
+event clicked;return 79
+//79 modify
 end event
 

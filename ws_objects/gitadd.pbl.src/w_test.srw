@@ -50,9 +50,7 @@ event clicked;return 1	//modify
 
 this.classname( )
 
-//abccba
-
-//test
+//123
 
 end event
 

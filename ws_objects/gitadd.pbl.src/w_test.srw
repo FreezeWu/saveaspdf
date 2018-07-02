@@ -48,5 +48,6 @@ end type
 
 event clicked;return 1
 //aaaaaaaaaaa
+//bbbbb
 end event
 

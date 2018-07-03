@@ -47,5 +47,6 @@ string text = "test4"
 end type
 
 event clicked;//abc
+//add1
 end event
 

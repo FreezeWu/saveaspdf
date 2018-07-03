@@ -51,8 +51,7 @@ string facename = "Tahoma"
 string text = "none"
 end type
 
-event clicked;return 1
-//add11
+event clicked;//mod92
 end event
 
 type oauthclient_1 from oauthclient within w_gitadd descriptor "pb_nvo" = "true" 

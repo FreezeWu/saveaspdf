@@ -47,5 +47,6 @@ string text = "none"
 end type
 
 event clicked;return 1
+//add
 end event
 
